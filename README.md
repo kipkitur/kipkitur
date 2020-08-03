@@ -9,6 +9,6 @@ I am QA Tester and a certified AWS solutions architect associate looking to ensu
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on automation testing projects with Pytest, Cucumber and Postman
-- 🌱 I’m currently learning Jmeter, Python and Jenkins 
+- 🌱 I’m currently learning Jmeter, Protractor, Jenkins and React 
 - 💬 Ask me about my experience in Kenya & China
 <!--- ⚡ Fun fact: When I was 6 years old, I had one of the best pitch for a cartoon show.-->
